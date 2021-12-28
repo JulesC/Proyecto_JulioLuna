@@ -1,0 +1,16 @@
+.btn-primary {
+  font-size: 18px;
+   margin-left: 650px;
+   display: "block";  
+}
+
+.fa-shopping-cart{
+    font-size:16px;
+    padding: 20px;
+    color:rgb(5, 0, 7);
+}
+
+.fa-shopping-cart:hover{
+    color: #329fe7;
+    border-radius: 0;
+}
